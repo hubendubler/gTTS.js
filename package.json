@@ -26,7 +26,8 @@
     "testPathIgnorePatterns": [
       "/node_modules/",
       "/playground/"
-    ]
+    ],
+    "testEnvironment": "node"
   },
   "keywords": [],
   "author": "",

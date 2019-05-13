@@ -2,8 +2,8 @@
   "name": "gtts",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/gtts.js",
+  "types": "dist/gtts.d.ts",
   "scripts": {
     "start": "node --inspect=5858 -r ts-node/register lib\\index.ts",
     "dev": "node node_modules\\nodemon\\bin\\nodemon.js",

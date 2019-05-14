@@ -27,9 +27,15 @@
     ],
     "testEnvironment": "node"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "gtts",
+    "text-to-speech",
+    "node-module",
+    "typescript",
+    "nodejs"
+  ],
+  "author": "hubendubler",
+  "license": "MIT",
   "devDependencies": {
     "@types/jest": "^23.3.12",
     "jest": "^23.6.0",

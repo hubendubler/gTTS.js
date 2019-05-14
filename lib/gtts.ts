@@ -211,6 +211,9 @@ export class gTTS {
             })
             .catch((err) => {
                 throw new Error(`Error writing the file: ${err.message}`);
+            })
+            .then((value) => {
+                return Promise.resolve();
             });
 
         }

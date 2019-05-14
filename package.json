@@ -10,6 +10,14 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hubendubler/gTTS.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hubendubler/gTTS.js/issues"
+  },
+  "homepage": "https://github.com/hubendubler/gTTS.js#readme",
   "jest": {
     "transform": {
       ".(ts|tsx)": "ts-jest"
@@ -32,7 +40,9 @@
     "text-to-speech",
     "node-module",
     "typescript",
-    "nodejs"
+    "nodejs",
+    "tts",
+    "speech"
   ],
   "author": "hubendubler",
   "license": "MIT",

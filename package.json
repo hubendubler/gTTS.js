@@ -1,7 +1,7 @@
 {
-  "name": "gtts",
+  "name": "gtts.js",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Promise based Node.js/TypeScript port of the gTTS python library",
   "main": "dist/gtts.js",
   "types": "dist/gtts.d.ts",
   "scripts": {
@@ -33,7 +33,6 @@
   "devDependencies": {
     "@types/jest": "^23.3.12",
     "jest": "^23.6.0",
-    "nodemon": "^1.19.0",
     "ts-node": "^8.1.0",
     "tslint": "^5.16.0",
     "ts-jest": "^23.10.5",

@@ -1,6 +1,6 @@
 {
   "name": "gtts.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Promise based Node.js/TypeScript port of the gTTS python library",
   "main": "dist/gtts.js",
   "types": "dist/gtts.d.ts",

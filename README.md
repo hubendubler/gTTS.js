@@ -1,8 +1,8 @@
 # gTTS.js
 
-[![Build Status](https://travis-ci.com/hubendubler/gTTS.svg?token=J3pmS2iu8QRB9YmWfb9y&branch=master)](https://travis-ci.com/hubendubler/gTTS)
+[![Build Status](https://travis-ci.com/hubendubler/gTTS.js.svg?branch=master)](https://travis-ci.com/hubendubler/gTTS.js)
 
-This is a Promise based Node.js/TypeScript port of the [python gTTS library](https://github.com/pndurette/gTTS).
+This is a Promise based Node.js/TypeScript port of the [python gTTS Google Text-To-Speech library](https://github.com/pndurette/gTTS).
 
 ## Install
 
